@@ -1,6 +1,6 @@
 <div align="center">
 
-# max.edgar
+# maxedgar
 
 building things, breaking things, learning things
 
