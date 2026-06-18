@@ -17,7 +17,7 @@ currently learning and building things while pretending i know exactly what i'm 
 
 ---
 
-🎀 tech stack
+⭐ tech stack
 
 frontend
 
