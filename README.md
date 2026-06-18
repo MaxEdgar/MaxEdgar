@@ -11,7 +11,7 @@ Currently learning and building things while pretending I know exactly what I'm 
 - Exploring new technologies
 - Usually debugging something
 
-<br>Tech Stack ✦
+<br>Tech Stack
 
 <div align="center"><img src="https://img.shields.io/badge/HTML5-FCE7F3?style=flat-square&logo=html5&logoColor=black" />
 <img src="https://img.shields.io/badge/CSS3-DBEAFE?style=flat-square&logo=css3&logoColor=black" />
