@@ -1,10 +1,10 @@
 <div align="center"><img src="https://i.pinimg.com/736x/58/71/51/58715173da29ef1ba3a0e9cdc83328b3.jpg" width="100%" /><br>MaxEdgar ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-Building cute things, breaking them, then fixing them again.
+Building things, breaking them, then fixing them again
 
 <br><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=A8D8F0&center=true&vCenter=true&width=500&lines=Web+Development;UI%2FUX+Design;Learning+New+Things;Building+Cute+Projects" /></div><br>About
 
-Currently learning and building things while pretending I know exactly what I'm doing.
+Currently learning and building things while pretending I know exactly what I'm doing
 
 - Interested in web development
 - Enjoy designing clean interfaces
